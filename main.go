@@ -22,3 +22,7 @@ func main() {
 
 	r.Run()
 }
+
+// RUN DEAMON
+// CompileDaemon -command="./go-crud-robby"
+// go run migrate/migrate.go
